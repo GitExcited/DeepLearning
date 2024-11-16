@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "9e5fbe66b0e94971",
+    "type": "split",
+    "children": [
+      {
+        "id": "0abcc90fea86db45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "514f921050f78fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/computer vision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "computer vision"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a09b1e5a40f52ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "2565d3b986362ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2123c2b03a4be67c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf70989f2a9c6635",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61378c1f8e69324f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6772bf987d4027d",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e6333a428d1959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "345b0b355c9b1b3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference Notes/Questions ch1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Questions ch1"
+            }
+          },
+          {
+            "id": "005561dc09f76365",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference Notes/Questions ch1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Questions ch1"
+            }
+          },
+          {
+            "id": "428efc22e4fd8f02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a356ede3a1daab1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference Notes/Questions ch1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Questions ch1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "514f921050f78fdb",
+  "lastOpenFiles": [
+    "Zettelkasten/Collaborative Filtering.md",
+    "Zettelkasten/computer vision.md",
+    "Files/Pasted image 20241113115509.png",
+    "Zettelkasten/convolutional neural network.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/DataBlock.md",
+    "Epic/How to Learn AI and Goals.md",
+    "Tools/Useful Jupyter features.md",
+    "Reference Notes/Questions ch1.md",
+    "Zettelkasten/Segmentation.md",
+    "Epic/Chapter 1 PDL.md",
+    "Zettelkasten/training set.md",
+    "Zettelkasten/Validation Set.md",
+    "Zettelkasten/Test set.md",
+    "Zettelkasten/Network layer.md",
+    "Epic/Deep Learning.md",
+    "Tools/FastAi tools/fine_tune.md",
+    "Tools/FastAi tools/fit.md",
+    "Tools/Imagenet.md",
+    "Files/Training Loop.png",
+    "Files/NN jargon.png",
+    "Files/Segmentation example.png",
+    "Files/Overfitting curve.png",
+    "Zettelkasten/Overfitting.md",
+    "Tools/FastAi tools/Datasets.md",
+    "Tools/FastAi tools/collab.md",
+    "Tools/FastAi tools/vision.md",
+    "Tools/FastAi tools/fastdownload.md",
+    "Tools/Python Tools/pathlib.md",
+    "Zettelkasten/Training Loop.md",
+    "Tools/FastAi tools",
+    "Tools/General Tools",
+    "Tools/Python Tools",
+    "Tools",
+    "Epic",
+    "Zettelkasten",
+    "Templates",
+    "Reference Notes",
+    "Files"
+  ]
+}
